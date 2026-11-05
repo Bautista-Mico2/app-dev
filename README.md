@@ -1,2 +1,5 @@
 # app-dev
-My first repository.
+My Favorite Series
+Title:Breaking Bad  
+***Genre:*** Crime, Drama  
+
